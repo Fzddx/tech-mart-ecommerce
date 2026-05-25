@@ -183,7 +183,7 @@ The admin account is pre-created in the database.
 ## Folder Structure
 
 ```text
-Assignment2_ZhengFu/
+31748 Assignment2 Zheng Fu/
 │
 ├── backend/
 │   ├── api.py
@@ -270,7 +270,7 @@ Contains the React frontend application.
 | pages/Login.jsx | User login and registration page |
 | pages/Products.jsx | Product browsing and searching page |
 | images/ | Product images |
-| styles/ | CSS styling |
+| styles/main.css | CSS styling |
 | api.js | Frontend API requests |
 | App.jsx | React routes |
 | main.jsx | React entry point |
